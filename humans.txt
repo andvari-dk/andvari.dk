@@ -1,0 +1,22 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+  Owner, Developer: Kristian Thy
+  Site: https://andvari.dk/
+  Email: kristian [at] andvari.dk
+  Location: Taastrup, Denmark
+
+# THANKS
+
+  Fonts:
+    - Comfortaa by Johan Aakerlund, <https://www.deviantart.com/aajohan>
+    - Open Sans by Steve Matteson, <https://twitter.com/@SteveMatteson1>
+  Logo:
+    - Adapted from a CC-BY-2.5 licensed image by Wikipedia user Berig, <https://en.wikipedia.org/wiki/User:Berig>
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5
+    Apache Server Configs, Modernizr, Normalize.css
