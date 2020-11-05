@@ -97,14 +97,14 @@ html {
 
 body {
   color: #333;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Open Sans', 'Helvetica Neue', 'Lucida Grande', 'Lucida Sans Unicode', Tahoma, sans-serif;
   margin-left: 278px;
 }
 
 h1 {
   border-bottom: 1px solid #960018;
   color: #960018;
-  font-family: 'Comfortaa', serif;
+  font-family: 'Comfortaa', fantasy;
   margin: 4em 1em 1em 0;
 }
 
