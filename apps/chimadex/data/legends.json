@@ -1,0 +1,540 @@
+{
+  "tribes": [
+    {
+      "name": "Bear",
+      "allies": [ "Lion" ],
+      "rivals": [ "Ice Bear" ],
+      "members": [
+        {
+          "name": "Bladvic",
+          "gender": "♂️",
+          "images": [ 149 ]
+        },
+        {
+          "name": "Bulkar",
+          "gender": "♂️",
+          "images": [ 134 ]
+        }
+      ]
+    },
+    {
+      "name": "Beaver",
+      "members": [
+        {
+          "name": "Breezor",
+          "gender": "♂️",
+          "isRuler": true,
+          "images": [ 141 ]
+        }
+      ]
+    },
+    {
+      "name": "Spider",
+      "allies": [ "Bat", "Scorpion" ],
+      "members": [
+        {
+          "name": "Sparacon",
+          "gender": "♂️",
+          "images": [ 61 ]
+        },
+        {
+          "name": "Sparratus",
+          "gender": "♂️",
+          "images": [ 53 ]
+        },
+        {
+          "name": "Spinlyn",
+          "gender": "♀️",
+          "isRuler": true,
+          "images": [ 65 ]
+        }
+      ]
+    },
+    {
+      "name": "Bat",
+      "allies": [ "Scorpion", "Spider" ],
+      "members": [
+        {
+          "name": "Blista",
+          "gender": "♂️",
+          "images": [ 57 ]
+        },
+        {
+          "name": "Braptor",
+          "gender": "♂️",
+          "isRuler": true,
+          "images": [ 54 ]
+        }
+      ]
+    },
+    {
+      "name": "Phoenix",
+      "allies": [ "Lundor the Leopard", "Tormak the Tiger" ],
+      "members": [
+        {
+          "name": "Firox",
+          "gender": "♂️",
+          "images": [ 110 ]
+        },
+        {
+          "name": "Flinx",
+          "gender": "♂️",
+          "images": [ 77, 128 ]
+        },
+        {
+          "name": "Fluminox",
+          "gender": "♂️",
+          "isRuler": true,
+          "images": [ 75, 104 ]
+        },
+        {
+          "name": "Foltrax",
+          "gender": "♂️",
+          "images": [ 76 ]
+        },
+        {
+          "name": "Frax",
+          "gender": "♂️",
+          "images": [ 105, 113, 144 ]
+        }
+      ]
+    },
+    {
+      "name": "Gorilla",
+      "allies": [ "Eagle", "Lion" ],
+      "members": [
+        {
+          "name": "G'Loona",
+          "gender": "♀️",
+          "images": [ 36 ]
+        },
+        {
+          "name": "Grizzam",
+          "gender": "♂️",
+          "images": [ 40 ]
+        },
+        {
+          "name": "Grumlo",
+          "gender": "♂️",
+          "isRuler": true,
+          "images": [ 28, 48 ]
+        },
+        {
+          "name": "Gorzan",
+          "gender": "♂️",
+          "images": [ 31, 35, 50, 68, 91, 131 ]
+        }
+      ]
+    },
+    {
+      "name": "Vulture",
+      "allies": [ "Mammoth", "Saber-Tooth" ],
+      "members": [
+        {
+          "name": "Vardy",
+          "gender": "♂️",
+          "isRuler": true,
+          "images": [ 80 ]
+        },
+        {
+          "name": "Voom Voom",
+          "gender": "♂️",
+          "images": [ 74, 82, 107 ]
+        },
+        {
+          "name": "Vornon",
+          "gender": "♂️",
+          "images": [ 88, 96, 112 ]
+        },
+        {
+          "name": "Vultrix",
+          "gender": "♀️",
+          "images": [ 145 ]
+        }
+      ]
+    },
+    {
+      "name": "Ice Bear",
+      "rivals": [ "Bear" ],
+      "members": [
+        {
+          "name": "Icebite",
+          "gender": "♂️",
+          "images": [ 136 ]
+        },
+        {
+          "name": "Iceklaw",
+          "gender": "♂️",
+          "images": [ 127, 147, 154, 160 ]
+        },
+        {
+          "name": "Icepaw",
+          "gender": "♂️",
+          "images": [ 137, 156 ]
+        },
+        {
+          "name": "Icerlot",
+          "gender": "♂️",
+          "images": [ 118 ]
+        },
+        {
+          "name": "Warrior 1",
+          "gender": "♂️",
+          "images": [ 119 ]
+        },
+        {
+          "name": "Warrior 2",
+          "gender": "♂️",
+          "images": [ 120 ]
+        }
+      ]
+    },
+    {
+      "name": "Crocodile",
+      "allies": [ "Rhino", "Raven", "Wolf" ],
+      "rivals": [ "Lion" ],
+      "members": [
+        {
+          "name": "Cragger",
+          "gender": "♂️",
+          "images": [ 24, 44, 51, 63, 92, 103, 130, 150 ]
+        },
+        {
+          "name": "Crawley",
+          "gender": "♂️",
+          "images": [ 13, 162 ]
+        },
+        {
+          "name": "Crokenburg",
+          "gender": "♂️",
+          "images": [ 121 ]
+        },
+        {
+          "name": "Crominus",
+          "gender": "♂️",
+          "isRuler": true,
+          "images": [ 23, 153 ]
+        },
+        {
+          "name": "Crooler",
+          "gender": "♀️",
+          "images": [ 22 ]
+        },
+        {
+          "name": "Crug",
+          "gender": "♂️",
+          "images": [ 4, 94, 109 ]
+        },
+        {
+          "name": "Warrior 1",
+          "gender": "♂️",
+          "images": [ 122 ]
+        },
+        {
+          "name": "Warrior 2",
+          "gender": "♂️",
+          "images": [ 123 ]
+        }
+      ]
+    },
+    {
+      "name": "Lion",
+      "allies": [ "Bear", "Gorilla", "Eagle" ],
+      "rivals": [ "Crocodile" ],
+      "members": [
+        {
+          "name": "Lagravis",
+          "gender": "♂️",
+          "isRuler": true,
+          "images": [ 30, 41, 97 ]
+        },
+        {
+          "name": "Laval",
+          "gender": "♂️",
+          "images": [ 11, 43, 49, 62, 66, 93, 101, 155 ]
+        },
+        {
+          "name": "Lavertus / ShadoWind",
+          "gender": "♂️",
+          "images": [ 55, 67, 69, 114 ]
+        },
+        {
+          "name": "Lennox",
+          "gender": "♂️",
+          "images": [ 3, 6, 25 ]
+        },
+        {
+          "name": "Leonidas",
+          "gender": "♂️",
+          "images": [ 17 ]
+        },
+        {
+          "name": "Li'Ella",
+          "gender": "♀️",
+          "images": [ 79, 115 ]
+        },
+        {
+          "name": "Longtooth",
+          "gender": "♂️",
+          "images": [ 12, 27 ]
+        },
+        {
+          "name": "Warrior 1",
+          "gender": "♂️",
+          "images": [ 116 ]
+        },
+        {
+          "name": "Warrior 2",
+          "gender": "♂️",
+          "images": [ 117 ]
+        }
+      ]
+    },
+    {
+      "name": "Mammoth",
+      "allies": [ "Vulture", "Saber-Tooth" ],
+      "members": [
+        {
+          "name": "Maula",
+          "gender": "♀️",
+          "isRuler": true,
+          "images": [ 85, 157 ]
+        },
+        {
+          "name": "Mottrot",
+          "gender": "♂️",
+          "images": [ 84, 159 ]
+        },
+        {
+          "name": "Mungus",
+          "gender": "♂️",
+          "images": [ 83 ]
+        }
+      ]
+    },
+    {
+      "name": "Rhino",
+      "allies": [ "Crocodile", "Raven", "Wolf" ],
+      "members": [
+        {
+          "name": "Rinona",
+          "gender": "♀️",
+          "images": [ 60, 158 ]
+        },
+        {
+          "name": "Rogon",
+          "gender": "♂️",
+          "images": [ 59, 151 ]
+        }
+      ]
+    },
+    {
+      "name": "Raven",
+      "allies": [ "Crocodile", "Wolf" ],
+      "rivals": [ "Eagle" ],
+      "members": [
+        {
+          "name": "Rawsom",
+          "gender": "♂️",
+          "isRuler": true,
+          "images": [ 19, 33 ]
+        },
+        {
+          "name": "Razar",
+          "gender": "♂️",
+          "images": [ 1, 42, 90, 135 ]
+        },
+        {
+          "name": "Razcal",
+          "gender": "♂️",
+          "images": [ 2, 34 ]
+        },
+        {
+          "name": "Rizzo",
+          "gender": "♂️",
+          "images": [ 7 ]
+        }
+      ]
+    },
+    {
+      "name": "Saber-Tooth",
+      "allies": [ "Vulture", "Mammoth" ],
+      "members": [
+        {
+          "name": "Saraw",
+          "gender": "♂️",
+          "images": [ 152 ]
+        },
+        {
+          "name": "Sibress",
+          "gender": "♀️",
+          "images": [ 143 ]
+        },
+        {
+          "name": "Sir Fangar",
+          "gender": "♂️",
+          "isRuler": true,
+          "images": [ 87, 102, 161 ]
+        },
+        {
+          "name": "Sirox",
+          "gender": "♂️",
+          "images": [ 124 ]
+        },
+        {
+          "name": "Stealthor",
+          "gender": "♂️",
+          "images": [ 78, 95 ]
+        },
+        {
+          "name": "Strainor",
+          "gender": "♂️",
+          "images": [ 86, 99 ]
+        },
+        {
+          "name": "Sykor",
+          "gender": "♂️",
+          "images": [ 111, 132 ]
+        },
+        {
+          "name": "Warrior 1",
+          "gender": "♂️",
+          "images": [ 125 ]
+        },
+        {
+          "name": "Warrior 2",
+          "gender": "♂️",
+          "images": [ 126 ]
+        }
+      ]
+    },
+    {
+      "name": "Scorpion",
+      "allies": [ "Bat", "Spider" ],
+      "members": [
+        {
+          "name": "Scolder",
+          "gender": "♂️",
+          "images": [ 70 ]
+        },
+        {
+          "name": "Scorm",
+          "gender": "♂️",
+          "isRuler": true,
+          "images": [ 56 ]
+        },
+        {
+          "name": "Scutter",
+          "gender": "♂️",
+          "images": [ 64 ]
+        }
+      ]
+    },
+    {
+      "name": "Tiger",
+      "members": [
+        {
+          "name": "Tazar",
+          "gender": "♂️",
+          "images": [ 139 ]
+        },
+        {
+          "name": "Tormak",
+          "gender": "♂️",
+          "images": [ 73, 133 ]
+        },
+        {
+          "name": "Trakkar",
+          "gender": "♂️",
+          "images": [ 140 ]
+        }
+      ]
+    },
+    {
+      "name": "Wolf",
+      "allies": [ "Crocodile", "Raven" ],
+      "members": [
+        {
+          "name": "Wakz",
+          "gender": "♂️",
+          "images": [ 8, 26 ]
+        },
+        {
+          "name": "Wilhurt",
+          "gender": "♂️",
+          "images": [ 15, 106 ]
+        },
+        {
+          "name": "Windra",
+          "gender": "♀️",
+          "images": [ 39 ]
+        },
+        {
+          "name": "Winzar",
+          "gender": "♂️",
+          "images": [ 9 ]
+        },
+        {
+          "name": "Worriz",
+          "gender": "♂️",
+          "isRuler": true,
+          "images": [ 16, 38, 52, 72, 89, 100, 129, 146 ]
+        }
+      ]
+    },
+    {
+      "name": "Eagle",
+      "allies": [ "Gorilla", "Lion" ],
+      "rivals": [ "Raven" ],
+      "members": [
+        {
+          "name": "Eglor",
+          "gender": "♂️",
+          "images": [ 21 ]
+        },
+        {
+          "name": "Equila",
+          "gender": "♂️",
+          "images": [ 10 ]
+        },
+        {
+          "name": "Eris",
+          "gender": "♀️",
+          "images": [ 5, 32, 37, 58, 71, 98, 138 ]
+        },
+        {
+          "name": "Ewald",
+          "gender": "♂️",
+          "isRuler": true,
+          "images": [ 18, 45 ]
+        },
+        {
+          "name": "Ewar",
+          "gender": "♂️",
+          "isRuler": true,
+          "images": [ 14, 47 ]
+        }
+      ]
+    },
+    {
+      "name": "Others",
+      "members": [
+        {
+          "name": "Furty the Fox",
+          "gender": "♂️",
+          "images": [ 46 ]
+        },
+        {
+          "name": "Lundor the Leopard",
+          "gender": "♂️",
+          "images": [ 81, 148 ]
+        },
+        {
+          "name": "Skinnet the Skunk",
+          "gender": "♂️",
+          "images": [ 29 ]
+        }
+      ]
+    }
+  ]
+}
